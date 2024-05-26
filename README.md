@@ -19,6 +19,7 @@ The application queries data from two CSV files located in the `data` folder:
 - `employees.csv`: Contains employee data including their ID, full name, and email address.
 
 - `purchases.csv`: Records purchase details including purchase ID, date, associated employee ID, amount, and product name.
+- 'metrics.csv': metrics time series.
 
 ## Prompts
 
